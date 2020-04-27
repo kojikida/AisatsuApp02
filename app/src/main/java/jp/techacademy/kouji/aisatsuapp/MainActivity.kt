@@ -42,8 +42,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener  {
         when (v.id) {
             R.id.button1 -> showTimePickerDialog()
         }
-
-
+        
     }
 
 }
